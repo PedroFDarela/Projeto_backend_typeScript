@@ -1,0 +1,58 @@
+[
+    {
+        "nome_real": "Steve Rogers",
+        "password": "Steve Rogers",
+        "codinome": "Capitão América",
+        "tipo_desastre": ["assalto a bancos", "desastres naturais"],
+        "cidades": ["New York"],
+        "trabalho_equipe": "indiferente"
+    },
+    {
+        "nome_real": "Tommy Oliver",
+        "password": "Tommy Oliver",
+        "codinome": "Power Ranger Branco",
+        "tipo_desastre": ["monstros gigantes","desastres naturais"],
+        "cidades": ["New York","Tókio"],
+        "trabalho_equipe": "indiferente"
+    },
+    {
+        "nome_real": "Logan",
+        "password": "Logan",
+        "codinome": "Wolverine",
+        "tipo_desastre": ["desastres naturais", "monstros gigantes", "assalto a bancos"],
+        "cidades": ["New York", "Tókio"],
+        "trabalho_equipe": "indiferente"
+    },
+    {
+        "nome_real": "Clark Joseph Kent",
+        "password": "Clark Joseph Kent",
+        "codinome": "Superman",
+        "tipo_desastre": ["desastres naturais", "monstros gigantes", "assalto a bancos"],
+        "cidades": ["New York"],
+        "trabalho_equipe": "indiferente"
+    },
+    {
+        "nome_real": "Touha Yamaji",
+        "password": "Touha Yamaji",
+        "codinome": "Ninja Jiraya",
+        "tipo_desastre": ["monstros gigantes"],
+        "cidades": ["Tókio"],
+        "trabalho_equipe": "indiferente"
+    },
+    {
+        "nome_real": "Roberto da Costa",
+        "password": "Roberto da Costa",
+        "codinome": "Macha Solar",
+        "tipo_desastre": ["desastres naturais", "monstros gigantes", "assalto a bancos"],
+        "cidades": ["Rio de Janeiro","New York"],
+        "trabalho_equipe": "indiferente"
+    },
+    {
+        "nome_real": "Amara Aquilla",
+        "password": "Amara Aquilla",
+        "codinome": "Magma",
+        "tipo_desastre": ["desastres naturais"],
+        "cidades": ["Rio de Janeiro"],
+        "trabalho_equipe": "indiferente"
+    }
+]
